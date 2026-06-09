@@ -56,33 +56,42 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Microsoft Excel
 
 ## Dashboard Preview
-### Home Dashboard
+### Home Page Analysis
 <img src="Home Page.png" width="800">
+
 - Total Amount
 - Successful Transactions
 - Failed Transactions
 - Failed Payment Analysis
 - Monthly Transaction Trends
 
-### 2. Insurance Analysis
+### 2. Insurance Page Analysis
+<img src="Insurance Page.png" width="800">
+
 - Insurance Premium Analysis
 - Payment Status
 - Failed Payment Reasons
 - Monthly Premium Trends
 
-### 3. Loan Analysis
+### 3. Loan Page Analysis
+<img src="Loan Page.png" width="800">
+
 - Loan Amount Analysis
 - Loan Category Performance
 - Payment Status
 - Monthly Loan Trends
 
-### 4. Money Transfer Analysis
+### 4. Money Transfer Page Analysis
+<img src="Money Transfer Page.png" width="800">
+
 - Money Transfer Amount
 - Transaction Count
 - UPI Transfer Insights
 - Monthly Transfer Trends
 
-### 5. Recharge & Bills Analysis
+### 5. Recharge & Bills Page Analysis
+<img src="Recharge & Bills Page.png" width="800">
+
 - Recharge Amount Analysis
 - Utility Bill Payments
 - Payment Status
