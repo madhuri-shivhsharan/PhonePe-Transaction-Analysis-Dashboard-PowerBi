@@ -49,16 +49,15 @@ In Power BI, you can customize the appearance of your dashboard. For this projec
 ## 7. Final Touches: Linking the Pages
 Once I have created all the pages for each service (home,  insurance, loans, money transfer, recharge & bills), the next step is to link these pages together for easy navigation. This can be done by creating buttons in Power BI, which will allow users to switch between different sections of the dashboard seamlessly.
 
-
-
 ## Tools Used
-
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 
-## Dashboard Pages
+## Dashboard Preview
+### Home Dashboard
+
 - Total Amount
 - Successful Transactions
 - Failed Transactions
