@@ -1,7 +1,5 @@
 # Phonepe-Transaction-Analysis-PowerBi
 Developed an interactive Power BI dashboard to analyze PhonePe transactions, payment success rates, failure reasons, loan performance, insurance transactions, money transfers, and recharge services using Power Query, DAX, and data visualization techniques.
-# PhonePe Transaction Analysis Dashboard
-
 ## Project Overview
 
 This Power BI dashboard provides an interactive analysis of PhonePe Data Analysis Dashboard. This project covers all the essential  data analysis aspects such as transaction tracking, failed payment monitoring, and visualizing multiple services like Insurance, Loans, Money Transfers, and Recharge & Bills. 
@@ -21,7 +19,7 @@ The dataset that contains detailed transaction information, including:
 - User Details: User ID, Name, Age, Join Date
 - Transaction Information: Transaction ID, Amount, Service Type, Payment Status, Date, and more
 - Service Breakdown: Details about each service, such as UPI payments, insurance premiums, loan types, and recharge types.
-### 1. Home Dashboard
+
 ## 1. Creating the Homepage
 The homepage will summarize the entire project. Key metrics to be displayed include:
 
@@ -39,7 +37,7 @@ Each page will contain the following visualizations:
 - Amount vs. Month: A graph showing the total amount transacted each month.
 - Service vs. Amount: A bar chart displaying the contribution of each service to the total transaction amount.
 - Payment Status: A pie chart illustrating the payment status (successful vs. failed payments).
-- 
+
 ## 3. Failed Payment Analysis
 A crucial part of the project is monitoring failed payments. In this section, you’ll analyze why certain transactions failed. This will be displayed in a pie chart showing the reasons for failure (e.g., server error, wrong payment details, insufficient balance). Tracking failed payments is essential for businesses to identify issues and take corrective actions.
 ## 4. Creating Interactivity
