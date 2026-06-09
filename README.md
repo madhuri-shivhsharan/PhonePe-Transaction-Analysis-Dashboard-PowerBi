@@ -105,27 +105,6 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Analyzed monthly transaction patterns.
 - Created interactive visualizations for business decision-making.
 
-## Dashboard Preview
-
-### Home Dashboard
-
-![Home Dashboard](Images/Home_Dashboard.png)
-
-### Insurance Analysis
-
-![Insurance Analysis](Images/Insurance_Analysis.png)
-
-### Loan Analysis
-
-![Loan Analysis](Images/Loan_Analysis.png)
-
-### Money Transfer Analysis
-
-![Money Transfer Analysis](Images/Money_Transfer_Analysis.png)
-
-### Recharge & Bills Analysis
-
-![Recharge Bills Analysis](Images/Recharge_Bills_Analysis.png)
 
 ## Author
 
