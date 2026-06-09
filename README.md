@@ -57,7 +57,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 
 ## Dashboard Preview
 ### Home Dashboard
-
+<img src="Home Page.png" width="800">
 - Total Amount
 - Successful Transactions
 - Failed Transactions
