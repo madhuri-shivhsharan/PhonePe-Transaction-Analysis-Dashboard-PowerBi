@@ -90,7 +90,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Monthly Transfer Trends
 
 ### 5. Recharge & Bills Page Analysis
-<img src="Recharge & Bills Page.png" width="800">
+<img src="Reacharge & Bills Page.png" width="800">
 
 - Recharge Amount Analysis
 - Utility Bill Payments
