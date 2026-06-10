@@ -66,7 +66,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Monthly Transaction Trends
 
 ### 2. Insurance Page Analysis
-<img src="Insurance Page.png" width="800">
+<img src="Insurance Page Analysis.png" width="800">
 
 - Insurance Premium Analysis
 - Payment Status
@@ -74,7 +74,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Monthly Premium Trends
 
 ### 3. Loan Page Analysis
-<img src="Loan Page.png" width="800">
+<img src="Loan Page Analysis.png" width="800">
 
 - Loan Amount Analysis
 - Loan Category Performance
@@ -82,7 +82,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Monthly Loan Trends
 
 ### 4. Money Transfer Page Analysis
-<img src="Money Transfer Page.png" width="800">
+<img src="Money Transfer Analysis.png" width="800">
 
 - Money Transfer Amount
 - Transaction Count
@@ -90,7 +90,7 @@ Once I have created all the pages for each service (home,  insurance, loans, mon
 - Monthly Transfer Trends
 
 ### 5. Recharge & Bills Page Analysis
-<img src="Reacharge & Bills Page.png" width="800">
+<img src="Reacharge & Bills Analysis.png" width="800">
 
 - Recharge Amount Analysis
 - Utility Bill Payments
